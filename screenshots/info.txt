@@ -1,2 +1,0 @@
-This folder contains the graphs from the prjects.
-It gives you an idea on what to expect for key visualizations and insights summary.
